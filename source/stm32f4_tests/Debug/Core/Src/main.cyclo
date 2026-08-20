@@ -1,0 +1,8 @@
+../Core/Src/main.c:64:1:__io_putchar	1
+../Core/Src/main.c:74:6:print_hex_memory	2
+../Core/Src/main.c:85:6:glitch	3
+../Core/Src/main.c:110:5:main	10
+../Core/Src/main.c:266:6:SystemClock_Config	3
+../Core/Src/main.c:308:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:341:13:MX_GPIO_Init	1
+../Core/Src/main.c:372:6:Error_Handler	1

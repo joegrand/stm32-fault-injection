@@ -1,0 +1,12 @@
+notebook
+numpy
+tqdm
+matplotlib
+bokeh
+selenium
+chipshouter
+chipwhisperer
+pyserial
+ipython
+ipympl
+mplcursors
