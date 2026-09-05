@@ -13,7 +13,7 @@ Our work comprises three years of refining and extending these attacks into a mo
 * A new strategy that combines two known attacks: Our RDP level 2 to level 1 downgrade and the [Flash Patch and Breakpoint (FPB)](#flash-patch-and-breakpoint-fpb) attack
     * This allows us to extract the full flash contents using only two glitches
 
-This repository accompanies our [REcon 2026](https://recon.cx/2026/en/index.html) presentation "[Failure Is Not an Option: A Reliable Process to Exploit STM32F2/F4 Microcontrollers](https://www.youtube.com/watch?v=eAb7yu5bBro)" and contains the following:
+This repository accompanies our [REcon 2026](https://recon.cx/2026/en/index.html) presentation "[Failure Is Not an Option: A Reliable Process to Exploit STM32F2/F4 Microcontrollers](https://www.youtube.com/watch?v=4LahQG09NzI)" and contains the following:
 
 * [Jupyter notebooks](https://github.com/joegrand/stm32-fault-injection/tree/master/notebooks) and associated wrappers for the ChipWhisperer and STM32 bootloader
 * [Source code](https://github.com/joegrand/stm32-fault-injection/tree/master/source) for characterization test code and FPB payload
