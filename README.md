@@ -15,10 +15,10 @@ Our work comprises three years of refining and extending these attacks into a mo
 
 This repository accompanies our [REcon 2026](https://recon.cx/2026/en/index.html) presentation "[Failure Is Not an Option: A Reliable Process to Exploit STM32F2/F4 Microcontrollers](https://www.youtube.com/watch?v=4LahQG09NzI)" and contains the following:
 
-* [Jupyter notebooks](https://github.com/joegrand/stm32-fault-injection/tree/master/notebooks) and associated wrappers for the ChipWhisperer and STM32 bootloader
-* [Source code](https://github.com/joegrand/stm32-fault-injection/tree/master/source) for characterization test code and FPB payload
-* [Hardware designs](https://github.com/joegrand/stm32-fault-injection/tree/master/hardware) for evaluation and attack
-* [Slides](https://github.com/joegrand/stm32-fault-injection/tree/master/slides)
+* [Jupyter notebooks](https://github.com/joegrand/stm32-fault-injection/tree/main/notebooks) and associated wrappers for the ChipWhisperer and STM32 bootloader
+* [Source code](https://github.com/joegrand/stm32-fault-injection/tree/main/source) for characterization test code and FPB payload
+* [Hardware designs](https://github.com/joegrand/stm32-fault-injection/tree/main/hardware) for evaluation and attack
+* [Slides](https://github.com/joegrand/stm32-fault-injection/tree/main/slides)
 
 This project is unsupported, but for public discussion you can submit an [Issue](https://github.com/joegrand/stm32-fault-injection/issues) or visit [Joe Grand's Discord server](https://discord.com/invite/wud8KnF2Gm).
 
