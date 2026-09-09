@@ -73,3 +73,8 @@ To run the code, you will need Python 3 and some additional packages. Assuming y
 * [One Exploit to Rule them All? On the Security of Drop-in Replacement and Counterfeit Microcontrollers](https://www.usenix.org/system/files/woot20-paper-obermaier.pdf)
 * [STM32F1 Pico Pwner (CTXz)](https://github.com/CTXz/stm32f1-picopwner)
 * [STM32F4 readout protection exploit (lolwheel)](https://github.com/lolwheel/stm32f4-rdp-workaround)
+
+### Joe's Related Wallet Hacking Videos
+* [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+* [$75,000,000 Crypto Wallet Bulk Hack](https://www.youtube.com/watch?v=MhJoJRqJ0Wc)
+* [The Shocking Result of My $75 Million Bulk Hack](https://www.youtube.com/watch?v=TGmGiN5Pa48)
