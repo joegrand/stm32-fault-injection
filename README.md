@@ -20,7 +20,7 @@ This repository accompanies our [REcon 2026](https://recon.cx/2026/en/index.html
 * [Hardware designs](https://github.com/joegrand/stm32-fault-injection/tree/main/hardware) for evaluation and attack
 * [Slides](https://github.com/joegrand/stm32-fault-injection/tree/main/slides)
 
-This project is unsupported, but for public discussion you can submit an [Issue](https://github.com/joegrand/stm32-fault-injection/issues) or visit [Joe Grand's Discord server](https://discord.com/invite/wud8KnF2Gm).
+This project has been developed and tested for the STM32F205 and STM32F427. It is unsupported, but for public discussion you can submit an [Issue](https://github.com/joegrand/stm32-fault-injection/issues) or visit [Joe Grand's Discord server](https://discord.com/invite/wud8KnF2Gm).
 
 ## Requirements
 
